@@ -1,2 +1,2 @@
 # algorism
-2-1)mergesort
+2_1)mergesort
